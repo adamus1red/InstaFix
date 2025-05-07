@@ -14,7 +14,7 @@ require (
 	github.com/tidwall/gjson v1.18.0
 	go.etcd.io/bbolt v1.3.11
 	golang.org/x/image v0.22.0
-	golang.org/x/net v0.31.0
+	golang.org/x/net v0.38.0
 	golang.org/x/sync v0.9.0
 )
 
@@ -23,5 +23,5 @@ require (
 	github.com/stretchr/testify v1.9.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
-	golang.org/x/sys v0.27.0 // indirect
+	golang.org/x/sys v0.31.0 // indirect
 )
