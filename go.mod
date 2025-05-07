@@ -7,7 +7,7 @@ require (
 	github.com/RyanCarrier/dijkstra/v2 v2.0.2
 	github.com/cespare/xxhash/v2 v2.3.0
 	github.com/elastic/go-freelru v0.16.0
-	github.com/go-chi/chi/v5 v5.1.0
+	github.com/go-chi/chi/v5 v5.2.1
 	github.com/kelindar/binary v1.0.19
 	github.com/klauspost/compress v1.17.11
 	github.com/tdewolff/parse/v2 v2.7.19
