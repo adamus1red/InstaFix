@@ -1,6 +1,6 @@
 module instafix
 
-go 1.23.2
+go 1.24.0
 
 require (
 	github.com/PuerkitoBio/goquery v1.10.0
@@ -13,7 +13,7 @@ require (
 	github.com/tdewolff/parse/v2 v2.7.19
 	github.com/tidwall/gjson v1.18.0
 	go.etcd.io/bbolt v1.3.11
-	golang.org/x/image v0.22.0
+	golang.org/x/image v0.32.0
 	golang.org/x/net v0.31.0
 	golang.org/x/sync v0.9.0
 )
